@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/user-attachments/assets/77de63ea-6888-4909-9130-32b311b936d4' alt= 'Dexxter image' style='width:50%; height:auto;'/><br/>
+  <img src='https://github.com/user-attachments/assets/49774c59-8246-412a-b3bb-ade80fcf6cb4' alt= 'Dexxter image' style='width:50%; height:auto;'/><br/>
   <!-- <img src='https://visitor-badge.laobi.icu/badge?page_id=DexxterGWM.DexxterScripts-lua_u&left_color=black&right_color=red' alt='Repository visitors icon'/> -->
 </p>
 <br/>
