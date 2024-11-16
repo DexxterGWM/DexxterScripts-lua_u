@@ -42,7 +42,7 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 <br/>
 
 _Changelog_ **(MM/DD/YYYY)**:
-  - Last date: 10/29/2024
+  - Last date: 11/16/2024
 
 ```md
 + Code optimization
