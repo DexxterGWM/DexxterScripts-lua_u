@@ -31,7 +31,8 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 ### <div align='center'>📑 Technical Information</div>
 
 > [!CAUTION]
-> 1. Be aware that this script wasn't tested in some _Roblox executors_
+> 1. Be aware that this script wasn't tested in some _Roblox executors_;
+> 2. This System makes use of _external libraries_.
 <br/>
 
 ```css
@@ -42,7 +43,7 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 <br/>
 
 _Changelog_ **(MM/DD/YYYY)**:
-  - Last date: 12/11/2024
+  - Last date: 12/18/2024
 
 ```md
 + Code optimization
