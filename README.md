@@ -35,7 +35,7 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 > 2. This System makes use of _external libraries_.
 <br/>
 
-```css
+```md
 * Platform: `Roblox`
   - Can only be used through: Roblox executors
   - Tested on Mobile devices
