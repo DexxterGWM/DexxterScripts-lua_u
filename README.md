@@ -32,7 +32,7 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 
 > [!CAUTION]
 > 1. Be aware that this script wasn't tested in some _Roblox executors_;
-> 2. This System makes use of _external libraries_.
+> 2. This System makes usage of _external libraries_.
 <br/>
 
 ```md
@@ -43,13 +43,14 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 <br/>
 
 _Changelog_ **(MM/DD/YYYY)**:
-  - Last date: 01/24/2025
+  - Last date: 02/11/2025
 
 ```md
 + Code optimization
 + Key system based
 + New UI Library
 + New Key system
++ Added premium functions
 ```
 
 <!--
