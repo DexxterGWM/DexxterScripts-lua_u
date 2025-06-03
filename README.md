@@ -17,14 +17,12 @@
 > 2. Some functions won't work with multiple *Toggles* ON (e.g.: *Random Toggle*: ON, need the *Another Toggle*: OFF)
 <br/>
 
-**Load the** _script_ **by copying it from**:
-  1. [Source Raw](https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua)
-<br/>
+**Load the** _script_ **by executing the** _code_ **below**:
 
-**Or by executing the** _code_ **below**:
 ```lua
 loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua'))()
 ```
+
 #
 <br/>
 
