@@ -49,6 +49,7 @@ _Changelog_ **(MM/DD/YYYY)**:
 + New UI Library
 + New Key system
 + Added premium functions
++ Added Aimbot module
 ```
 
 <!--
