@@ -3,39 +3,65 @@
   <head>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style>
-      b { color : white; }
-      p { color : white; }
-      a { color : white; }
+        body {
+            background-color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+
+        .wrapper {
+            display: flex;
+            justify-content: center;
+        }
+
+        .content {
+            color: white;
+            text-align: left;
+            max-width: 600px;
+        }
+        
+        .title {
+            text-align: center;
+            display: block;
+            margin-top: 30px;
+        }
+
+        b, p, a { color : white; }
     </style>
   </head>
   <body style='background-color:#000000;'>
     <center>
-      <b>Supported executors list:</b>
-      <p
-         >"🟢": Supported <br/>"🟡": Not supported <br/>"🔴": Won't be supported <br/>"✅": Tested <br/>"🔘": Must works/not tested</p
-      >
-      
-      <p><b>Mobile:</b> <br/>
-        🟢 - Delta [✅] <br/>
-        🟢 - Krnl [✅] <br/>
-        🟢 - Codex [✅] <br/>
-        🟢 - VegaX [✅] <br/>
-        🟢 - Apple Ware [🔘] <br/>
-        🟢 - Arceus X Neo [✅] <br/>
-        🟢 - Cryptic Mobile [🔘] <br/>
-        🟢 - Trigon Evo [✅] <br/></p
-      >
-
-      <p><b>Desktop:</b> <br/>
-        🟢 - AWP.GG [🔘] <br/>
-        🟢 - Wave [✅] <br/>
-        🟢 - Celery [🔘] <br/>
-        🟢 - Synapse Z [🔘] <br/>
-        🟢 - Macsploit [✅] <br/>
-        🟢 - Cryptic Windows [🔘] <br/>
-        🔴 - Visual <br/>
-        🔴 - Volcano <br/></p
-      >
+        <div class = 'wrapper'>
+            <div class = 'content'>
+                <p>
+                    <b class = 'title'>Supported executors list:</b> <br/>
+                    "🟢": Supported <br/>"🟡": Not supported <br/>"🔴": Won't be supported <br/><br/>
+                    "✅": Tested <br/>"🔘": Must works/not tested
+                </p>
+                <p>
+                    <b class = 'title'>Mobile:</b> <br/>
+                    [✅]: 🟢 - Delta <br/>
+                    [✅]: 🟢 - Krnl <br/>
+                    [✅]: 🟢 - Codex <br/>
+                    [✅]: 🟢 - VegaX <br/>
+                    [🔘]: 🟢 - Apple Ware <br/>
+                    [✅]: 🟢 - Arceus X Neo <br/>
+                    [🔘]: 🟢 - Cryptic Mobile <br/>
+                    [✅]: 🟢 - Trigon Evo <br/>
+                </p>
+                <p>
+                    <b class = 'title'>Desktop:</b> <br/>
+                    [🔘]: 🟢 - AWP.GG <br/>
+                    [✅]: 🟢 - Wave <br/>
+                    [🔘]: 🟢 - Celery <br/>
+                    [🔘]: 🟢 - Synapse Z <br/>
+                    [✅]: 🟢 - Macsploit <br/>
+                    [🔘]: 🟢 - Cryptic Windows <br/>
+                    [⚫]: 🔴 - Visual <br/>
+                    [⚫]: 🔴 - Volcano <br/>
+                </p>
+            </div>
+        </div>
     </center>
   </body>
 </html>
