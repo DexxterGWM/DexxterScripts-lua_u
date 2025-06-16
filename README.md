@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-### <div align='center'>📜 Dexxter Scripts [MOBILE]</div>
+### <div align='center'>📜 Dexxter Scripts - PC & MOBILE</div>
 <h2 align='center'> 
 
 ![Key System](https://img.shields.io/badge/Key_System-darkred) ![Universal](https://img.shields.io/badge/Universal-lightblue) ![Fast](https://img.shields.io/badge/Fast-blue) ![Organized](https://img.shields.io/badge/Organized-blue) ![Secure](https://img.shields.io/badge/Secure-darkgreen) ![Optimized](https://img.shields.io/badge/Optimized-darkgreen) ![Simple](https://img.shields.io/badge/Simple-yellow) ![Mobile Friendly](https://img.shields.io/badge/Mobile_Friendly-gray) ![Trusted](https://img.shields.io/badge/Trusted-yellow)
@@ -12,12 +12,15 @@
 </h2>
 <br/><br/>
 
+**Load the** _script_ **by executing the** _code_ **below**:
+
 > [!WARNING]
-> 1. Loader will find for scripts only made by me, the list can be found [here](https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/scripts/Files%20Folder/Scripts%20List/ScriptsList.json) <br/>
-> 2. Some functions won't work with multiple *Toggles* ON (e.g.: *Random Toggle*: ON, need the *Another Toggle*: OFF)
+> 1. Loader will find for games on the [supported games](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedGames.html) list <br/>
+> 2. Loader will run only with the [supported executors](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedExecutors.html) list <br/>
+> 3. Some functions maybe can't work with multiple *Toggles* ON (e.g.: *Some Toggle*: ON, need the *Another Toggle*: OFF)
 <br/>
 
-**Load the** _script_ **by executing the** _code_ **below**:
+### <div align='center'>▶️ Load script</div>
 
 ```lua
 loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua'))()
@@ -29,7 +32,7 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 ### <div align='center'>📑 Technical Information</div>
 
 > [!CAUTION]
-> 1. Be aware that this script wasn't tested in some _Roblox executors_;
+> 1. Be aware that this script won't work in some _Roblox executors_ (due to bad _environment_);
 > 2. This System makes usage of _external libraries_.
 <br/>
 
@@ -41,7 +44,7 @@ loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScr
 <br/>
 
 _Changelog_ **(MM/DD/YYYY)**:
-  - Last date: 06/04/2025
+  - Last date: 06/16/2025
 
 ```md
 + Code optimization
