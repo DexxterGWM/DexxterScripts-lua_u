@@ -9,25 +9,29 @@
 
 ![Key System](https://img.shields.io/badge/Key_System-darkred) ![Universal](https://img.shields.io/badge/Universal-lightblue) ![Fast](https://img.shields.io/badge/Fast-blue) ![Organized](https://img.shields.io/badge/Organized-blue) ![Secure](https://img.shields.io/badge/Secure-darkgreen) ![Optimized](https://img.shields.io/badge/Optimized-darkgreen) ![Simple](https://img.shields.io/badge/Simple-yellow) ![Mobile Friendly](https://img.shields.io/badge/Mobile_Friendly-gray) ![Trusted](https://img.shields.io/badge/Trusted-yellow)
 
-</h2>
-<br/><br/>
-
-**Load the** _script_ **by executing the** _code_ **below**:
-
-> [!WARNING]
-> 1. Loader will find for games on the [supported games](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedGames.html) list <br/>
-> 2. Loader will run only with the [supported executors](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedExecutors.html) list <br/>
-> 3. Some functions maybe can't work with multiple *Toggles* ON (e.g.: *Some Toggle*: ON, need the *Another Toggle*: OFF)
 <br/>
+
+Join on the Discord Server [here](https://discord.gg/SAMPvwEdwZ)! <br/><br/>
+
+</h2>
+
+<br/><br/>
 
 ### <div align='center'>▶️ Load script</div>
 
-```lua
-loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua'))()
-```
+> [!WARNING]
+> 1. Loader will find for games on the [_supported games_](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedGames.html) list <br/>
+> 2. Loader will run only with the [_supported executors_](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedExecutors.html) list <br/>
+> 3. Some functions maybe can't work with multiple *Toggles* ON (e.g.: *Some Toggle*: ON, need the *Another Toggle*: OFF)
+<br/>
+
+**Normal version**: this is the more stable public version <br/>
+**Test version** (if there's some): this a test version of the stable public version <br/><br/>
+
+You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/Loadstring.html).
 
 #
-<br/>
+<br/><br/>
 
 ### <div align='center'>📑 Technical Information</div>
 
