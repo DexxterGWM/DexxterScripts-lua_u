@@ -48,7 +48,7 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
 <br/>
 
 _Changelog_ **(MM/DD/YYYY)**:
-  - Last date: 06/16/2025
+  - Last date: 06/17/2025
 
 ```md
 + Code optimization
