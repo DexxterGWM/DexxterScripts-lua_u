@@ -53,9 +53,9 @@ _Changelog_ **(MM/DD/YYYY)**:
 ```md
 + Code optimization
 + Key system based
-+ New UI Library
++ New UI library
 + New Key system
-+ Added premium functions
++ Added Premium functions
 + Added Aimbot module
 ```
 
