@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/user-attachments/assets/49774c59-8246-412a-b3bb-ade80fcf6cb4' alt= 'Dexxter image' style='width:50%; height:auto;'/><br/>
+  <img src='https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/refs/heads/assets/Files%20Folder/Images%20Templates/DexxterBanner-MINIFIED.png' alt= 'Dexxter image' style='width:80%; height:auto;'/><br/>
   <!-- <img src='https://visitor-badge.laobi.icu/badge?page_id=DexxterGWM.DexxterScripts-lua_u&left_color=black&right_color=red' alt='Repository visitors icon'/> -->
 </p>
 <br/>
@@ -48,11 +48,10 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
 <br/>
 
 _Changelog_ **(MM/DD/YYYY)**:
-  - Last date: 07/02/2025
+  - Last date: 05/07/2025
 
 ```md
 + Code optimization
-+ Key system based
 + New UI library
 + New Key system
 + Added Premium functions
