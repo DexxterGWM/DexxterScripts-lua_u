@@ -1,0 +1,1 @@
+local StarterGui=Game:GetService('StarterGui')StarterGui:SetCore('SendNotification',{Title='script moved';Text='this test version script is already done, use the normal version instead.';Duration=math.huge;Callback=BindableFunction;Button1='ok'})
