@@ -42,6 +42,7 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
 ```md
 * Platform: `Roblox`
   - Can only be used with Roblox executors
+  - Key-access based Exploit
   - Tested on Mobile devices
 
 * Key Link:
