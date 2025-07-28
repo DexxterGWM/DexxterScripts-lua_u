@@ -49,7 +49,7 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
 ```
 <br/>
 
-### <div align='center'>Last Changelog: 05/13/2025 (MM/DD/YYYY)</div>
+### <div align='center'>Last Changelog: 07/28/2025 (MM/DD/YYYY)</div>
 
 <!--
               (`.          ,-,
