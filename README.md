@@ -11,7 +11,7 @@
 
 <br/>
 
-Join our [Discord Server](https://discord.gg/SAMPvwEdwZ)! <br/><br/>
+Join our [Discord Server](https://discord.gg/WyXpAxGnTT)! <br/><br/>
 
 </h2>
 
