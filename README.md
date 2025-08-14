@@ -12,7 +12,7 @@
 <br/>
 
 Join our [Discord Server](https://discord.gg/WyXpAxGnTT)! <br/><br/>
-Website: [dexxterservices.com]https://dexxterservices.com/ <br/><br/>
+Website: [dexxterservices.com](https://dexxterservices.com/) <br/><br/>
 
 </h2>
 
