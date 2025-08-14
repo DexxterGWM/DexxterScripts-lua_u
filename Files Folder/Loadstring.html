@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    </head>
+  <body style='background-color:#000000;'>
+    <script>
+      function copyToClipboard(element) {var $temp = $('<input>'); $('body').append($temp); $temp.val($(element).text()).select(); document.execCommand('copy'); $temp.remove();}
+    </script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    <center>
+      <b style='color:#FFFFFF;'>Normal version:</b>
+      <p style='color:#FFFFFF;' id='NormalVersionCode'>loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua'))()</p>
+      <button onclick='copyToClipboard("#NormalVersionCode")'>Copy normal script</button>
+      <br/><br/><br/>
+      <b style='color:#FFFFFF;'>Test version (if there's some):</b>
+      <p style='color:#FFFFFF;' id='TestVersionCode'>loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/Tests/ScriptBuild.lua'))()</p>
+      <button onclick='copyToClipboard("#TestVersionCode")'>Copy test script</button>
+    </center>
+  </body>
+</html>
