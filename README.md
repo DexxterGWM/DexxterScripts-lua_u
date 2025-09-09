@@ -21,7 +21,7 @@ Join our [Discord Server](https://discord.gg/WyXpAxGnTT)! <br/><br/>
 ### <div align='center'>▶️ Load Script</div>
 
 > [!WARNING]
-> 1. Loader will find for games only on the supported Games list, make sure to check it in the [supported games](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedGames.html) list. <br/>
+> 1. Loader will find for games only on the supported Games list, make sure to check it in the Supported Games channel on our Discord Server. <br/>
 > 2. Loader will run only with the supported Executors, make sure to check it in the [supported executors](https://dexxtergwm.github.io/DexxterScripts-lua_u/Files%20Folder/SupportedExecutors.html) list. <br/>
 <br/>
 
@@ -46,11 +46,17 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
 * Platform: `Roblox`
   - Can only be used with Roblox executors
   - Key-access based Exploit
-  - Tested on Mobile devices
+  - Tested on Desktop and Mobile devices
+
+* Multi-language support, including:
+  - en-us
+  - fr-fr
+  - es-es
+  - pt-br
 
 * Key Links:
-  - https://ads.luarmor.net/
-  - https://pandadevelopment.net/
+  - https://ads.luarmor.net/  -  for scripts with high demand level of global executions
+  - https://pandadevelopment.net/  -  for scripts with lowered level of global executions
 ```
 <br/>
 
