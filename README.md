@@ -55,8 +55,8 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
   - pt-br
 
 * Key Links:
-  - https://ads.luarmor.net/  -  for scripts with high demand level of global executions
-  - https://pandadevelopment.net/  -  for scripts with lowered level of global executions
+  - https://ads.luarmor.net/  -  For scripts with high demand level of global executions
+  - https://pandadevelopment.net/  -  For scripts with lowered level of global executions
 ```
 <br/>
 
