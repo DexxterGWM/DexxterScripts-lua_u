@@ -60,7 +60,7 @@ You can get the script code [here](https://dexxtergwm.github.io/DexxterScripts-l
 ```
 <br/>
 
-### <div align='center'>Last Changelog: 12/11/2025 (MM/DD/YYYY)</div>
+### <div align='center'>Last Changelog: 12/27/2025 (MM/DD/YYYY)</div>
 
 <!--
               (`.          ,-,
